@@ -41,7 +41,6 @@ __PocketMine-MP is a free, open-source software that creates Minecraft: Pocket E
 ### Want to contribute?
 * Check the [Contributing Guidelines](CONTRIBUTING.md)
 
-
 ## Third-party Libraries/Protocols Used
 * __[PHP Sockets](http://php.net/manual/en/book.sockets.php)__
 * __[PHP SQLite3](http://php.net/manual/en/book.sqlite3.php)__
